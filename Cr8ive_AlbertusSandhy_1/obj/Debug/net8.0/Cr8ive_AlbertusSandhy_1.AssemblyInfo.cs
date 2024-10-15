@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cr8ive_AlbertusSandhy_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c901a8000b9a5c9b28f012d7481409d5d15fb31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+482c4682c3e9c84f978414700e436a1952795252")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cr8ive_AlbertusSandhy_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cr8ive_AlbertusSandhy_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
